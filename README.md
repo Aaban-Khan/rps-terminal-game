@@ -1,4 +1,4 @@
-<h1 align="center">✊🖐✌️ Rock Paper Scissors Game ✊🖐✌️</h1>
+<h1 align="center"> Rock Paper Scissors Game </h1>
 
 <p align="center">
   <strong>An interactive Python terminal game where players challenge the computer in classic Rock, Paper, Scissors battles, featuring real-time scoring and sound effects.</strong>
